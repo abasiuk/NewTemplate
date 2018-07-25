@@ -1,0 +1,16 @@
+/*****MEDIA*****/
+@media all and (max-width: 1199px) {
+  .container {
+    width: 1023px; } }
+
+@media all and (max-width: 1024px) {
+  .container {
+    width: 767px; } }
+
+@media all and (max-width: 768px) {
+  .container {
+    width: 479px; } }
+
+@media all and (max-width: 480px) {
+  .container {
+    width: 320px; } }
